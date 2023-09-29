@@ -3,6 +3,11 @@ Spring Boot Login and Registration to PostgreSQL Database with Email Verificatio
 
 ## [Implementation]()
 
+```diff
+- IMPORTANT:
+- Currently Test is failing: Email verification part!
+```
+
 - First we create new Spring project with `Spring Initializer` as following:
   
 <p align="center">
