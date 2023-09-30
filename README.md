@@ -52,5 +52,8 @@ $ npm install -g maildev
 
 ![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/b1605c62-a955-4600-9676-3b89cac586fc)
 
+- Then when we press the `Activate Now` , it redirects to the confirmation page:
+
+<img width="869" alt="image" src="https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/da0362b0-30e7-4016-9104-44777121a5e2">
   
 
