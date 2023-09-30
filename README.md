@@ -23,6 +23,9 @@ Spring Boot Login and Registration to PostgreSQL Database with Email Verificatio
   
 ![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/c9ca4eb6-beb2-43f9-8325-bf7490bdd91f)
 
+- Then with the `Postman` client we send new user registration request as following:
+
+  ![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/af9101c7-870b-4d57-ad15-39b65ca80fbb)
 
 
 
