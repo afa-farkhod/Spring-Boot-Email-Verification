@@ -48,6 +48,9 @@ $ npm install -g maildev
 
 ![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/181fc2a7-c5a5-4698-ad79-81cc608b8578)
 
+- maildev page looks as following:
+
+![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/b1605c62-a955-4600-9676-3b89cac586fc)
 
   
 
