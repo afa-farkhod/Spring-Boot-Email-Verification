@@ -35,5 +35,19 @@ Spring Boot Login and Registration to PostgreSQL Database with Email Verificatio
 
 ![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/eeeaa07a-fcef-4901-9ab9-d21a568e761e)
 
+- To simulate the email verification part, we use [maildev](https://github.com/maildev/maildev) which is the simple way to test project's generated email during development, with an easy to use web interface that runs on local machine built on top of Node.js:
 
+```
+# first clone the GitHub repository
+$ git clone https://github.com/maildev/maildev.git
+# then run the following command
+$ npm install -g maildev
+```
+
+- Then we can check successful installation by running `maildev`:
+
+![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/181fc2a7-c5a5-4698-ad79-81cc608b8578)
+
+
+  
 
