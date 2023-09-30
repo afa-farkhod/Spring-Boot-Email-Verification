@@ -27,5 +27,8 @@ Spring Boot Login and Registration to PostgreSQL Database with Email Verificatio
 
   ![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/af9101c7-870b-4d57-ad15-39b65ca80fbb)
 
+- After successful registration, we can check the Database:
+
+![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/26666031-afe9-494d-a125-897627611ce2)
 
 
