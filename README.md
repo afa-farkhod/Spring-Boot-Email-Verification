@@ -31,4 +31,9 @@ Spring Boot Login and Registration to PostgreSQL Database with Email Verificatio
 
 ![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/26666031-afe9-494d-a125-897627611ce2)
 
+- And on Postman we get `token` from the server as the meaning of successful registration:
+
+![image](https://github.com/af4092/Spring-Boot-Email-Verification/assets/24220136/eeeaa07a-fcef-4901-9ab9-d21a568e761e)
+
+
 
